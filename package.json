@@ -3,7 +3,7 @@
   "description": "all-in-one task starter app with jsPsych + React + Electron + psiturk ",
   "author": {
     "name": "RobertGemmaJr",
-    "email": "robert_gemma@brown.edu",
+    "email": "robert_gemma@brown.edu"
   },
   "version": "2.3.1",
   "license": "MIT",
